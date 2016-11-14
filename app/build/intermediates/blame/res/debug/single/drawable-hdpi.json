@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/home/tricia/git-cloned/StreamIOAsyncTask/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/tricia/git-cloned/StreamIOAsyncTask/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

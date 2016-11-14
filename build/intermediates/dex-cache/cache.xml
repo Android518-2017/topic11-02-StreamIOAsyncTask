@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dc8fe46947069bf8b2e6d8df571c5d88d8e4d59f">
+        <dex dex="/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58de96d379dd5d7269fd16f1e03f17a26b2babe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47dadf32927327ad1aba9ea25e4b26b0e75712d1">
+        <dex dex="/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce2d62567f424e0ff349208f89aa54353cd993d1/classes.dex" />
+    </item>
+
+</items>

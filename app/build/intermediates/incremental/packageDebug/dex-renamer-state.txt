@@ -1,0 +1,7 @@
+#Sun Nov 13 19:46:39 EST 2016
+base.0=/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce2d62567f424e0ff349208f89aa54353cd993d1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58de96d379dd5d7269fd16f1e03f17a26b2babe9/classes.dex
+base.1=/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58de96d379dd5d7269fd16f1e03f17a26b2babe9
+file.0=/home/tricia/git-cloned/StreamIOAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce2d62567f424e0ff349208f89aa54353cd993d1/classes.dex
